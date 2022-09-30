@@ -1,0 +1,13 @@
+
+**Database Name: onlinefoodorder**
+
+**Developed by Stephen Mwaniki**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 123456
+
